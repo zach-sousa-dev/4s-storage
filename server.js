@@ -8,3 +8,4 @@ APP.use('/items', ITEMS_ROUTER);
 
 /*PORT*/
 APP.listen(3000);
+console.log(`Listening on 3000`);
